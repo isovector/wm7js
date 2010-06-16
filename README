@@ -1,0 +1,1 @@
+To build make sure you have already compiled wiiuse as a module, as wm7js does depend on it. A simple `make` command will do the trick.
